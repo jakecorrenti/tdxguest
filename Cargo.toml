@@ -1,6 +1,6 @@
 [package]
 name = "tdxguest"
-version = "0.1.0"
+version = "0.0.0"
 edition = "2021"
 description = "cli tool for tdx"
 license = "Apache-2.0"
